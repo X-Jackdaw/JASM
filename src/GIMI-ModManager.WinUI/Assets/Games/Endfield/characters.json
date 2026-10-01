@@ -139,7 +139,7 @@
         "Keys": [
             "gilberta"
         ],
-        "ReleaseDate": "2026-01-22T00:00:00",
+        "ReleaseDate": "2026-02-07T00:00:00",
         "Image": "gilberta.webp",
         "Rarity": 6,
         "Element": "Nature",
@@ -454,7 +454,7 @@
         "Element": "Physical",
         "Class": "GreatSword",
         "Region": [
-            "Wuling"
+            "HAS"
         ],
         "ModFilesName": "MiFu",
         "InGameSkins": [],
@@ -493,7 +493,7 @@
         "Element": "Nature",
         "Class": "ArtsUnit",
         "Region": [
-            "TalosIIGeneralChamberOfCommerce"
+            "HAS"
         ],
         "ModFilesName": "Arcane",
         "InGameSkins": [],
@@ -516,5 +516,22 @@
         "InGameSkins": [],
         "InternalName": "Liino",
         "DisplayName": "Liino"
+    },
+    {
+        "Key": [
+            "typhoeus"
+        ],
+        "ReleaseDate": "2026-09-02T00:00:00",
+        "Image": "Typhoeus.webp",
+        "Rarity": 6,
+        "Element": "Nature",
+        "Class": "ArtsUnit",
+        "Region": [
+            "RhodesIsland"
+        ],
+        "ModFilesName": "Typhoeus",
+        "InGameSkins": [],
+        "InternalName": "Typhoeus",
+        "DisplayName": "Typhoeus"
     }
 ]
